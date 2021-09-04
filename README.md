@@ -1,11 +1,9 @@
 <h3 align="center">
   Welcome to Jerrett's profile!
-  <img src="https://user-images.githubusercontent.com/8633916/132103022-f8a05e2f-fd7c-42c2-8d6d-a441b8065787.gif" width="28">
 </h3>
 
 
 
-### Hi there 👋
 
 
 
