@@ -4,10 +4,10 @@
 </h3>
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://twitter.com/xozzothinktank"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-</p>
-
-![Visitor Count](https://profile-counter.glitch.me/jlevensalor/count.svg)
-
-       
+ <a href="https://github.com/jlevensalor">
+   <img alt="Github jlevensalor" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=#7ed957">
+ <a href="https://twitter.com/xozzothinktank">
+   <img alt="Twitter URL" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=#7ed957">
+  <a href="http:/fb.me/xozzothinktank">
+   <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&color=#7ed957">
+</p>   
