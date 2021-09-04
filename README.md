@@ -1,6 +1,6 @@
 <h3 align="center">
   Welcome to Jerrett's profile!
-  <img src="https://github.com/jlevensalor/Xozzo_gif.gif" width="40" height="40" />
+  <img src="https://github.com/jlevensalor/jlevensalor/blob/main/Xozzo_gif.gif" width="1000" height="724" />
 </h3>
 
 
