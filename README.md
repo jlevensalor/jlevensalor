@@ -13,3 +13,16 @@
   <a href="http:/fb.me/xozzothinktank">
    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&color=#7ed957">
 </p>   
+
+## Currently Building stuff on 
+
+<p>
+  <img alt="Linode" src="https://img.shields.io/badge/-Linode-00A95C?style=flat-square&logo=Linode&logoColor=white" />
+  <img alt="GCP" src="https://img.shields.io/badge/-GCP-0078D4?style=flat-square&logo=Google Cloud&logoColor=white" />
+  <img alt="Azure" src="https://img.shields.io/badge/-Azure-4285F4?style=flat-square&logo=Microsoft Azure&logoColor=white" />
+  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="AmazonAWS" src="https://img.shields.io/badge/-Amazon-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white" />
+</p>   
+   
