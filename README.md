@@ -26,3 +26,13 @@
   <img alt="AmazonAWS" src="https://img.shields.io/badge/-Amazon-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white" />
 </p>   
    
+## Analytics
+<p>
+  <img alt="Elastic Stack" src="https://img.shields.io/badge/-Elastic-005571?style=flat-square&logo=elasticstack&logoColor=white" />
+  <img alt="Elastic Cloud" src="https://img.shields.io/badge/-Elastic-005571?style=flat-square&logo=elasticcloud&logoColor=white" />
+</p>
+
+## ETL testing
+<p> 
+  <img alt="Fivetran" src="https://img.shields.io/badge/-Fivetran-00A95C?style=flat-square&logo=fivetran&logoColor=white" />
+  <img alt="Apache Airflow" src="https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
